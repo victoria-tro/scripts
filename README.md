@@ -1,2 +1,2 @@
 # scripts
-A place to store short scripts
+A place to store short scripts.
