@@ -5,7 +5,7 @@ Enter this in the terminal:
 `source textSummarizer.sh`
 
 # Debug
-Sometimes the virtual environment doesn't activate. Then you need to activate it manually with:
+Sometimes the virtual environment doesn't activate. If so, you need to activate it manually with:
 
 `conda activate ml_env`
 
