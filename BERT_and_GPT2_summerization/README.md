@@ -9,6 +9,6 @@ Sometimes the virtual environment doesn't activate. If so, you need to activate 
 
 `conda activate ml_env`
 
-Then run the python script separately:
+And then run the python script separately:
 
 `python summarize_text.py`
